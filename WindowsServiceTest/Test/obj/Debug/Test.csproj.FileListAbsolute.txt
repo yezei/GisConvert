@@ -1,0 +1,15 @@
+D:\LD\Git\WindowsServiceTest\Test\bin\Debug\Test.exe.config
+D:\LD\Git\WindowsServiceTest\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\LD\Git\WindowsServiceTest\Test\obj\Debug\Test.Form1.resources
+D:\LD\Git\WindowsServiceTest\Test\obj\Debug\Test.Properties.Resources.resources
+D:\LD\Git\WindowsServiceTest\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\LD\Git\WindowsServiceTest\Test\bin\Debug\Test.exe
+D:\LD\Git\WindowsServiceTest\Test\bin\Debug\Test.pdb
+D:\LD\Git\WindowsServiceTest\Test\bin\Debug\Quartz.dll
+D:\LD\Git\WindowsServiceTest\Test\bin\Debug\WindowsServiceTest.exe
+D:\LD\Git\WindowsServiceTest\Test\bin\Debug\log4net.dll
+D:\LD\Git\WindowsServiceTest\Test\bin\Debug\Common.Logging.dll
+D:\LD\Git\WindowsServiceTest\Test\bin\Debug\C5.dll
+D:\LD\Git\WindowsServiceTest\Test\bin\Debug\WindowsServiceTest.pdb
+D:\LD\Git\WindowsServiceTest\Test\obj\Debug\Test.exe
+D:\LD\Git\WindowsServiceTest\Test\obj\Debug\Test.pdb

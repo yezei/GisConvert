@@ -1,0 +1,1 @@
+%SystemRoot%\Microsoft.NET\Framework\v4.0.30319\installutil.exe /u D:\林冬\工作文档\201710\杭州大屏\WindowsServiceTest\WindowsServiceTest\bin\Debug\WindowsServiceTest.exe
